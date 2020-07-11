@@ -15,7 +15,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   two_things = ["left", "right"]
-  two_things.unshift ("center")
+  two_things.unshift ("wow")
 end
 
 def remove_element_from_end_of_array(array)
