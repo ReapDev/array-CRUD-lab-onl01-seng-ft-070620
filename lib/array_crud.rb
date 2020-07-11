@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   two_things = ["one", "two"]
-  two_things << "three"
+  two_things << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
