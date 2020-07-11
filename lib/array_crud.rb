@@ -19,7 +19,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  
+  two_things = ["first", "second"]
+  two_things.pop
 end
 
 def remove_element_from_start_of_array(array)
