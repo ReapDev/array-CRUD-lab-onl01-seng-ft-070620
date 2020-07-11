@@ -5,7 +5,7 @@ end
 create_an_empty_array
 
 def create_an_array
-  
+  four_things = ["fork", "knife", "plate", "spoon"]
 end
 
 def add_element_to_end_of_array(array, element)
